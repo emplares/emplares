@@ -1,26 +1,15 @@
-# 🌀 Emplares
+# Emplares
 
-Índice do ecossistema. Três camadas, um operador, um cérebro, um arquivo.
+A Emplares constrói sistemas de IA que preservam contexto e mantêm decisões sensíveis com pessoas, e a infraestrutura onde eles rodam. Quase tudo começa como ferramenta de uso próprio. O que fica estável e serve a mais gente vem para cá, aberto.
 
----
-
-## Camadas
-
-| Repositório | Papel | Descrição |
-|---|---|---|
-| [`cerebro`](https://github.com/emplares/cerebro) | 🧠 Conhecimento | Patrimônio cognitivo durável. O que Christian sabe, faz, decide e cria. Sobrevive a qualquer agente. |
-| [`operador`](https://github.com/emplares/operador) | ⚡ Execução | Agente vivo. Workspace operacional, diários, configurações, skills ativas, automações. |
-| [`arquivo`](https://github.com/emplares/arquivo) | 📦 Legado | Histórico preservado. Repositório pré-reset, arquivos frios, checkpoints. |
-
-## Fórmula
-
-```
-Cérebro lembra.
-Operador age.
-Arquivo preserva.
-Emplares aponta.
-```
+| Projeto | O que faz |
+|---|---|
+| [winmux](https://github.com/emplares/winmux) | Sessões persistentes de PowerShell no Windows, no estilo do tmux, para um agente de IA conduzir CLIs interativos por SSH. Go e ConPTY, testado em Windows real a cada commit. |
 
 ---
 
-_Emplares — ghost in the machine 🌀_
+Emplares builds AI systems that keep context and leave sensitive decisions with people, plus the infrastructure they run on. Almost everything starts as a tool for our own use. What becomes stable and useful to others ends up here, in the open.
+
+| Project | What it does |
+|---|---|
+| [winmux](https://github.com/emplares/winmux) | tmux-style persistent PowerShell sessions on Windows, so an AI agent can drive interactive CLIs over SSH. Go and ConPTY, tested on real Windows on every commit. |
